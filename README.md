@@ -1,3 +1,4 @@
+拖拽 上传插件
 #JQuery File Uploader
 JQuery plugin to drag and drop files, including ajax upload and progress bar. The idea for this plugin is to keep it very simple; other options/plugins i found mess up a lot with the markup and provide some really 'hacky' ways to make it available for prehistoric browsers.
 
@@ -73,7 +74,7 @@ Default is <code>null</code> which means Jquery will try to 'guess' depending of
 
 Other values can be: <code>xml</code>, <code>json</code>, <code>script</code>, or <code>html</code>
 
-Ref: http://api.jquery.com/jquery.ajax/
+Ref: http://api.jquery.com/jquery.ajax/   allowed file type upload  link
 
 ###fileName
 Field name used to submit the files on each request. Default is <code>file</code>
